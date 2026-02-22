@@ -10,3 +10,11 @@ Raspberry pi powered personalized mini mirror for my study table inspired by Mag
 6. Miffy graphics
 7. Muslim Prayer Times
 
+# Project Setup
+Python packages:
+- pandas
+- tkinter
+- fastf1
+
+API's used:
+- open meteo
